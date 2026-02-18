@@ -39,6 +39,8 @@ content as 'Good'. Count how many items fall into each category.
 
 ## Schema 
 
+```sql
+
 CREATE TABLE netflix
 (
     show_id      VARCHAR(5),
