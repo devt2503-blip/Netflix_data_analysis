@@ -70,7 +70,7 @@ FROM netflix
 GROUP BY 1;
 ```
 2. Find the most common rating for movies and TV shows
-sql```
+```sql
 WITH RatingCounts AS (
     SELECT 
         type,
