@@ -15,7 +15,7 @@ The data for this project is sourced from Kaggle:
 *Dataset Link*: [Actual_Dataset](netflix_titles.csv)
 
 ## Business_problems 
-
+```sql
 -- 15 Business Problems & Solutions
 
 1. Count the number of Movies vs TV Shows
