@@ -37,7 +37,8 @@ return top 5 year with highest avg content release!
 the description field. Label content containing these keywords as 'Bad' and all other 
 content as 'Good'. Count how many items fall into each category.```
 
-## Schema 
+## Schema
+
 ```sql
 CREATE TABLE netflix
 (
