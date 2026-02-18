@@ -227,3 +227,14 @@ FROM (
 ) AS categorized_content
 GROUP BY category;
 ```
+
+## Key Findings
+1. Content Dominance: The platform is typically Movie-dominant, with movies often accounting for roughly 70% of the total library compared to TV shows.
+2. Geographic Leaders: The United States is the primary content producer, followed by India and the United Kingdom. While the US library is balanced, India’s contribution is heavily skewed toward movies.
+T3. arget Audience: A significant majority of content is geared toward mature audiences, with TV-MA and TV-14 being the most frequent ratings.
+4. Production Trends: Content production saw a massive surge after 2010, peaking around 2018. Recent years show a slight decline, potentially due to the COVID-19 pandemic or a strategic shift toward quality over quantity.
+. Viewing Preferences: Most successful movies have a duration between 90–120 minutes, while the vast majority of TV shows (approx. 67%) consist of only one season. 
+
+
+## In a Nutshell
+The analysis indicates that Netflix employs a data-driven content strategy focused on high-volume movie production and strategic regional investments, particularly in India. To maintain its market leadership, Netflix should continue diversifying into international genres and non-English language content to cater to its global subscriber base. Furthermore, the high prevalence of mature-rated content suggests an opportunity to expand into younger audience segments (under 18) to capture underserved markets.
