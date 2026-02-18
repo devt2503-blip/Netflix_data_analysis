@@ -38,7 +38,6 @@ the description field. Label content containing these keywords as 'Bad' and all 
 content as 'Good'. Count how many items fall into each category.
 
 ## Schema 
-
 ```sql
 CREATE TABLE netflix
 (
